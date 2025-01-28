@@ -1,0 +1,3 @@
+create jquery app(use bootstrap)\
+for country dropowdn if country expits the show message below save country button as 	Country selected :icelande 
+if not present then display the message of  "israle " saved to country database" below save xountry button

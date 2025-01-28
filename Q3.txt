@@ -1,0 +1,6 @@
+a)create a form to take input Productid,ProductName,Price(/form route) All fields ar re compulsory add appropriate validations
+
+b)crate second form for submit form(/submit rote)
+when the form is submitted th data is sent to the (/submit route),where it is logged to console and sucess message is returned to client
+
+use nodejs or express 
