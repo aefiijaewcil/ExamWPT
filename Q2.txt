@@ -1,0 +1,12 @@
+FirstName
+LastName
+Email
+
+use react app for crud operations
+
+format- kaal sid ne placed students vr yek youtubevideo takla hota to format
+
+header name- user managemnent app
+heading- users list
+first- button for add new
+then- table for update, delete, view(action column) 
